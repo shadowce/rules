@@ -1,0 +1,17 @@
+DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,hhanclub.net
+DOMAIN-SUFFIX,agsvpt.cn
+DOMAIN-SUFFIX,ptskit.org
+DOMAIN-SUFFIX,dmhy.best
+DOMAIN-SUFFIX,ubits.club
+DOMAIN-SUFFIX,xingyungept.org
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,cinefiles.info
+DOMAIN-SUFFIX,soulvoice.club
+DOMAIN-SUFFIX,zmpt.cc
+DOMAIN-SUFFIX,zmpt.club
+DOMAIN-SUFFIX,uhddolby.com
+DOMAIN-SUFFIX,xloli.cc
+DOMAIN-SUFFIX,x-anime
