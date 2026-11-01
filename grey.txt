@@ -1,3 +1,4 @@
 DOMAIN-SUFFIX,anyrouter.top
+DOMAIN-SUFFIX,dian115.com
 DOMAIN,u2.dmhy.org
 DOMAIN,pektino.com
