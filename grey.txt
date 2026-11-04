@@ -1,6 +1,8 @@
 DOMAIN-SUFFIX,anyrouter.top
 DOMAIN-SUFFIX,dian115.com
 DOMAIN-SUFFIX,movie-pilot.org
+DOMAIN-SUFFIX,mypikpak.net
 DOMAIN-SUFFIX,plex.tv
 DOMAIN,u2.dmhy.org
 DOMAIN,pektino.com
+DOMAIN,dl.pikpak.io
