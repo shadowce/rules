@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,plex.tv
 DOMAIN,u2.dmhy.org
 DOMAIN,pektino.com
 DOMAIN,dl.pikpak.io
+DOMAIN,bbxxxx.com
+DOMAIN,bakamh.com
