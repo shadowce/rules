@@ -8,3 +8,4 @@ DOMAIN,pektino.com
 DOMAIN,dl.pikpak.io
 DOMAIN,bbxxxx.com
 DOMAIN,bakamh.com
+DOMAIN,www.alicesw.com
