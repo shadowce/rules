@@ -9,3 +9,4 @@ DOMAIN,dl.pikpak.io
 DOMAIN,bbxxxx.com
 DOMAIN,bakamh.com
 DOMAIN,www.alicesw.com
+DOMAIN,www.uaa.com
