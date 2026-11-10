@@ -10,3 +10,5 @@ DOMAIN,bbxxxx.com
 DOMAIN,bakamh.com
 DOMAIN,www.alicesw.com
 DOMAIN,www.uaa.com
+DOMAIN,xsijishe.com
+DOMAIN,xsijishe.net
