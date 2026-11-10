@@ -6,9 +6,13 @@ DOMAIN-SUFFIX,plex.tv
 DOMAIN,u2.dmhy.org
 DOMAIN,pektino.com
 DOMAIN,dl.pikpak.io
-DOMAIN,bbxxxx.com
+DOMAIN,xsijishe.com
+DOMAIN,xsijishe.net
 DOMAIN,bakamh.com
 DOMAIN,www.alicesw.com
 DOMAIN,www.uaa.com
-DOMAIN,xsijishe.com
-DOMAIN,xsijishe.net
+DOMAIN,bbxxxx.com
+DOMAIN,crxs.me
+DOMAIN,www.diyibanzi.com
+DOMAIN,www.66story.com
+DOMAIN,18xsk.com
