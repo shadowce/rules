@@ -16,3 +16,9 @@ DOMAIN,crxs.me
 DOMAIN,www.diyibanzi.com
 DOMAIN,www.66story.com
 DOMAIN,18xsk.com
+DOMAIN,www.cool18.com
+DOMAIN,bcshuku.com
+DOMAIN,www.yiyechunxiao.com
+DOMAIN,www.tjsyjjzs.com
+DOMAIN,www.66story.com
+DOMAIN,www.xn--7dv141d.com
