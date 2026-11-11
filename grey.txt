@@ -18,6 +18,7 @@ DOMAIN,www.66story.com
 DOMAIN,18xsk.com
 DOMAIN,www.cool18.com
 DOMAIN,bcshuku.com
+DOMAIN,18xsk.com
 DOMAIN,www.yiyechunxiao.com
 DOMAIN,www.tjsyjjzs.com
 DOMAIN,www.66story.com
