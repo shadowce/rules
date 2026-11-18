@@ -1,5 +1,6 @@
 DOMAIN,tracker.m-team.io
 DOMAIN,v4.plex.tv
+DOMAIN,jpopsuki.eu
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.io
