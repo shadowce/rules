@@ -24,3 +24,4 @@ DOMAIN,www.yiyechunxiao.com
 DOMAIN,www.tjsyjjzs.com
 DOMAIN,www.66story.com
 DOMAIN,www.xn--7dv141d.com
+DOMAIN,agentrouter.org
