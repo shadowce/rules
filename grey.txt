@@ -2,6 +2,8 @@ DOMAIN-SUFFIX,anyrouter.top
 DOMAIN-SUFFIX,dian115.com
 DOMAIN-SUFFIX,movie-pilot.org
 DOMAIN-SUFFIX,mypikpak.net
+DOMAIN,metadata.provider.plex.tv
+DOMAIN,pubsub04.pop.fmt.plex.bz
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,qobuz.com
 DOMAIN,u2.dmhy.org
