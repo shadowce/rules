@@ -17,6 +17,5 @@ DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,zmpt.cc
 DOMAIN-SUFFIX,zmpt.club
 DOMAIN-SUFFIX,uhddolby.com
-DOMAIN-SUFFIX,xloli.cc
 DOMAIN-SUFFIX,x-anime.cc
 DOMAIN-SUFFIX,plex.direct
