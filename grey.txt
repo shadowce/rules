@@ -4,7 +4,6 @@ DOMAIN-SUFFIX,movie-pilot.org
 DOMAIN-SUFFIX,mypikpak.net
 DOMAIN-SUFFIX,plex.bz
 DOMAIN-SUFFIX,plex.tv
-DOMAIN-SUFFIX,xloli.cc
 DOMAIN-SUFFIX,qobuz.com
 DOMAIN,u2.dmhy.org
 DOMAIN,pektino.com
